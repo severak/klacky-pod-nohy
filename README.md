@@ -23,3 +23,4 @@ v čem mi hází Symfony framework (a [OOP](https://en.wikipedia.org/wiki/Object
 - Symfony router
 - Twig
 - předvídatelný autoloader (díky použití composeru)
+- DIčko, ale jen používání
