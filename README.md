@@ -13,7 +13,8 @@ v čem mi hází Symfony framework (a [OOP](https://en.wikipedia.org/wiki/Object
 - FOSUserBundle - proč? [proto](https://jolicode.com/blog/do-not-use-fosuserbundle)
 - tři různé formáty configů, protože přináší zmatek do dokumentace
 - vůbec je configů [nějak moc](https://github.com/severak/klacky-pod-nohy/blob/master/1aizha.jpg), to způsobuje nepředvídatelnost chování aplikace
-- [systém událostí](http://symfony.com/doc/current/event_dispatcher.html). Tohle bylo zlo už za Drupalu. 
+- [systém událostí](http://symfony.com/doc/current/event_dispatcher.html). Tohle bylo zlo už za Drupalu.
+- přidat entitu, controller a formulář je stejně pracný jako začínat nějakej malej projekt mimo (proto generování boilerplate)
 
 ## Co se mi naopak líbí
 
